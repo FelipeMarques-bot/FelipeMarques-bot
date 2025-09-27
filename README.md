@@ -1,6 +1,6 @@
 - 👋 Olá, sou @FelipeMarques  
 - 👀 Tenho interesse em evoluir nos estudos em Java e outras linguagens de programação.  
-- 🌱 Atualmente estou aprendendo Java com foco em back-end.  
+- 🌱 Atualmente estou aprendendo linguagem Python, mas aprendi a pouco Java com foco em back-end.  
 - 💞️ Estou aberto a colaborar em projetos educativos ou iniciativas que envolvam tecnologia e ensino.  
 - 📫 Você pode entrar em contato comigo por [felipedacruzmarques23@gmail.com].  
 - ⚡ Curiosidade: também sou professor de Filosofia e Ensino Religioso — unir tecnologia e educação é uma das minhas paixões!
